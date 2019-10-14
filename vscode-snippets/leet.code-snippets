@@ -1,0 +1,13 @@
+{
+	"leet": {
+		"prefix": "leet",
+		"body": [
+			"/*",
+			" * Source: "
+			" * Author: Wang Zhen"
+			" * Date: ⇧+⌘+⌥+I on OS X, Ctrl+Alt+Shift+I on Windows and Linux"
+			" */"
+		],
+		"description": "Leetcode header"
+	}
+}
